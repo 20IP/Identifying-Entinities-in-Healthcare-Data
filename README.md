@@ -54,7 +54,7 @@ Seaborn version 	 0.11.2
 
 ## Acknowledgements
 - This project was inspired by our group exercise on loan market analysis.
-- References on [Reference_1](https://www.kaggle.com/code/bavalpreet26/ner-using-crf).  [Reference_2](https://www.dominodatalab.com/blog/named-entity-recognition-ner-challenges-and-model).
+- References on [Reference_1](https://www.kaggle.com/code/bavalpreet26/ner-using-crf).  [Reference_2](https://www.dominodatalab.com/blog/named-entity-recognition-ner-challenges-and-model). [Reference_3](https://github.com/smart-primate/Named_Entity_Recognition_Healthcare_Data). 
 
 
 ## Contact
