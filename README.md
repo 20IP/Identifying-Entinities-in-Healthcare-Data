@@ -5,9 +5,8 @@
 ## Table of Contents
 1. [General Info](#general-information)
 2. [Technologies Used](#technologies-used)
-3. [Approach Method](#approach-method)
-4. [Conclusions](#conclusions)
-5. [Acknowledgements](#acknowledgements)
+3. [Expected Tasks](#expected-tasks)
+4. [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -20,15 +19,16 @@
     <img src="pic1.jpg" width="70%" height="70%">
 
 - Dataset: __Provided by the Upgrad educational institution__. You can consult and download from this repo.
+
+- There are three labels that have been used in this dataset: O, D and T, which are corresponding to ‘Other’, ‘Disease’ and ‘Treatment’, respectively.
 - We don't have any more interpretive information about data. You can refer to the code in the __Jupyter Notebook__ file to understand how to handle it
 
 ## Technologies Used
 * In this project we use some of the following libraries, you can install it according to the version noted in the requirement.txt file.
 > Pandas version 	 1.4.2
-Numpy version 	 1.22.3
-Ploly version 	 5.6.0
-Matplotlib version 	 3.5.1
-Seaborn version 	 0.11.2
+Numpy version 	    1.22.3
+spacy version       3.4.3
+scikit-learn version        0.23.1
 
 ## Expected Tasks
 - Our approach is as follows:
@@ -41,20 +41,9 @@ Seaborn version 	 0.11.2
 >7. Evaluating the model
 >8. Identifying the diseases and predicted treatment using a custom NER
 
-## Conclusions
-- Debt Consolidation Purpose Tops across all default loans
-- Small Business / Renewable energy / Educational / Other / Moving Purpose are top defaults loans
-- On an average risky loans are charged 2 % higher interest rates
-- 42 % Default loan are from 60 months term compared to all default loans
-- Grade A is most reliable group
-- Grade F & G are more riskier group
-- Close to 3% increase in loan default with applicant experience more than 9
-- Mortgage Home Ownership loan are least riskier than all others home ownership loans
-- Risk Order for home Ownership is Mortgage < OWN < Rent < Others
-
 ## Acknowledgements
 - This project was inspired by our group exercise on loan market analysis.
-- References on [Reference_1](https://www.kaggle.com/code/bavalpreet26/ner-using-crf).  [Reference_2](https://www.dominodatalab.com/blog/named-entity-recognition-ner-challenges-and-model).
+- References on [Reference_1](https://www.kaggle.com/code/bavalpreet26/ner-using-crf).  [Reference_2](https://www.dominodatalab.com/blog/named-entity-recognition-ner-challenges-and-model). [Reference_3](https://github.com/smart-primate/Named_Entity_Recognition_Healthcare_Data). 
 
 
 ## Contact
